@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demo17Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Demo17Application.class, args);
+        SpringApplication.run(Demo17Application.class, args); //jjjss
     }
 
 }
